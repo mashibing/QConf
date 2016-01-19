@@ -106,3 +106,5 @@ cd QCONF_INSTALL_PREFIX/bin && sh agent-cmd.sh start
 
 * Email: g-qconf@list.qihoo.net
 * QQ Group: 438042718 
+* 
+[Add by MA] External reference link: http://chuansong.me/n/923964.
